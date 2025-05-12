@@ -7,9 +7,11 @@ This project was developed as a boilerplate for internal portals and admin dashb
 ---
 
 ## Preview
-
+###Main_Page
 ![Main Page](SecCorp1.png)
+###Dashboard
 ![Dashboard](SecCorp2.png)
+###Secure_Admin_Panel
 ![Our Secure Admin_Panel](SecCorp3.png)
 
 
